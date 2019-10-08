@@ -1,0 +1,6 @@
+use_frameworks!
+target 'michanApp_Tests' do
+  pod 'michanApp', :path => '../'
+  
+  
+end
